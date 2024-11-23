@@ -1,6 +1,6 @@
 # Ignorar el archivo de configuracion local
 
-# Ignorar la carpeta de archivos_privados
+# Ignorar la carpeta de local_config/
 local_config/
 
 # Ignorar los ficheros en bruto tmp y env
